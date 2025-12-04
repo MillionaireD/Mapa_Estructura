@@ -305,16 +305,15 @@ Abre un Pull Request
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para detalles.
 
 👥 Autores
-Tu Nombre - Desarrollo inicial - TuUsuario
+Miguel Lasprilla - Desarrollo inicial - @MillionaireD
+Ricardo Justiniani - Desarrollo complementario
 
 🙏 Agradecimientos
 Universidad de Panamá - Facultad de Informática
 
-Profesores de Estructuras de Datos
+Profesor de Estructuras de Datos
 
 Comunidad de desarrollo PHP
-
-Todos los contribuidores y testers
 
 🚀 Características Técnicas Destacadas
 Optimización
