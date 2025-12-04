@@ -767,85 +767,153 @@ html
     <H2>informacion del grafo</H2>
 </DIV>
 📄 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para detalles.
+MIT License
+text
+Copyright (c) 2024 MillionaireD
 
-👥 Autores
-Tu Nombre - Desarrollo inicial - TuUsuario
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+Términos de Uso
+Uso gratuito: Para fines educativos, personales y comerciales
+
+Atribución: Reconocimiento opcional pero apreciado
+
+Sin garantía: Software proporcionado "tal cual"
+
+Responsabilidad: Los autores no son responsables de daños
+
+👤 Autor
+Información del Desarrollador
+Nombre: MillionaireD
+
+Rol: Desarrollador Principal
+
+Contacto: GitHub Profile
+
+Experiencia y Motivación
+Este proyecto fue desarrollado como parte del curso de Estructuras de Datos con el objetivo de aplicar conceptos teóricos en una aplicación práctica y funcional. La motivación principal fue crear una herramienta educativa que demuestre la utilidad de los grafos en problemas del mundo real.
+
+Otros Proyectos
+Repositorio GitHub - Más proyectos y contribuciones
+
+LinkedIn - Perfil profesional (opcional)
 
 🙏 Agradecimientos
-Universidad de Panamá - Facultad de Informática
+Instituciones Educativas
+Universidad de Panamá - Por la formación en Ciencias de la Computación
 
-Profesores de Estructuras de Datos
+Facultad de Informática - Por el soporte y recursos académicos
 
-Comunidad de desarrollo PHP
+Profesores y Mentores
+Profesores de Estructuras de Datos - Por la guía teórica
 
-Todos los contribuidores y testers
+Compañeros de clase - Por el feedback y pruebas
 
-🚀 Características Técnicas Destacadas
-Optimización
-Lista de adyacencia para representación eficiente del grafo
+Recursos y Herramientas
+PHP Documentation - Documentación oficial del lenguaje
 
-SplPriorityQueue para implementación óptima de Dijkstra
+GitHub - Plataforma de hosting y colaboración
 
-Caché de resultados usando sesiones PHP
+Stack Overflow - Comunidad de desarrolladores
 
-Lazy loading para la matriz de adyacencia
+Visual Studio Code - Editor de código utilizado
 
-Seguridad
-Sanitización de inputs con htmlspecialchars()
+Inspiración
+Algoritmos Clásicos - Trabajo de Dijkstra, Tarjan, y otros pioneros
 
-Validación de datos en servidor
+Proyectos Open Source - Comunidad de código abierto
 
-Manejo de errores personalizado
+Aplicaciones de Navegación - Google Maps, Waze, y similares
 
-Protección contra XSS
+📞 Soporte y Contacto
+Canales de Comunicación
+Issues de GitHub: Para reportar bugs y solicitar features
 
-Usabilidad
-Interfaz intuitiva con feedback visual
+Email: [tu-email@ejemplo.com] - Para consultas directas
 
-Tooltips informativos en todos los elementos
+Discord/Teams: Para colaboración en tiempo real (opcional)
 
-Confirmaciones para acciones destructivas
+Respuesta a Issues
+Bug crítico: 24-48 horas
 
-Mensajes de estado claros y descriptivos
+Feature request: 1-2 semanas para evaluación
 
-🔧 Solución de Problemas
-Problemas Comunes y Soluciones
-"Error al agregar conexión. Verifique que ambas ciudades existan"
+Consulta general: 3-5 días hábiles
 
-Verificar que las ciudades seleccionadas existen
+Política de Soporte
+Prioridad: Bugs > Features > Mejoras > Documentación
 
-Asegurarse de que no haya espacios en blanco en los nombres
+Versiones: Solo la última versión estable recibe soporte completo
 
-Mapa no se muestra correctamente
+Compatibilidad: Se mantiene compatibilidad con PHP 7.4+
 
-Verificar que JavaScript esté habilitado
+Documentación: Siempre actualizada con cada release
 
-Revisar la consola del navegador para errores
+🔮 Roadmap y Futuro
+Versión 1.1 (Próxima)
+Exportación de rutas a CSV/JSON
 
-Los resultados no persisten al recargar
+Importación de datos desde archivos
 
-Verificar que las sesiones estén habilitadas en PHP
+Gráficos de estadísticas avanzadas
 
-Asegurarse de que no haya problemas con cookies
+Modo oscuro/claro
 
-Interfaz no se ve bien en móvil
+Versión 2.0 (Futuro)
+API REST para integración externa
 
-Verificar que el viewport esté configurado correctamente
+Base de datos para persistencia permanente
 
-Recargar la página limpiando caché (Ctrl+F5)
+Algoritmos adicionales (Kruskal, Floyd-Warshall)
 
-Requisitos de Servidor
-PHP 7.4 o superior
+Internacionalización (inglés/español)
 
-Habilitada la extensión de sesiones
+Investigación y Desarrollo
+Optimización de algoritmos para grandes grafos
 
-Memoria suficiente para grafos grandes (recomendado 128MB+)
+Machine learning para predicción de rutas
 
-📚 Recursos Adicionales
-Para Aprender Más
-Documentación oficial de PHP
+Integración con APIs de mapas reales
 
-Algoritmos de Grafos - GeeksforGeeks
+Aplicación móvil nativa
 
-Estructuras de Datos en PHP
+⭐ Mostrar tu Apoyo
+Si este proyecto te fue útil, por favor:
+
+Dale una estrella en GitHub ⭐
+
+Compártelo con compañeros y colegas
+
+Contribuye con mejoras o feedback
+
+Menciona el proyecto en tus trabajos académicos
+
+¡Tu apoyo motiva el desarrollo continuo!
+
+📊 Estadísticas del Proyecto
+Fecha de inicio: Diciembre 2024
+
+Líneas de código: ~1,500
+
+Clases: 2 principales
+
+Algoritmos implementados: 3
+
+Ciudades preconfiguradas: 18
+
+Conexiones iniciales: 21
