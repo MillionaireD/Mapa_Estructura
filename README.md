@@ -767,153 +767,85 @@ html
     <H2>informacion del grafo</H2>
 </DIV>
 📄 Licencia
-MIT License
-text
-Copyright (c) 2024 MillionaireD
+Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para detalles.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-Términos de Uso
-Uso gratuito: Para fines educativos, personales y comerciales
-
-Atribución: Reconocimiento opcional pero apreciado
-
-Sin garantía: Software proporcionado "tal cual"
-
-Responsabilidad: Los autores no son responsables de daños
-
-👤 Autor
-Información del Desarrollador
-Nombre: MillionaireD
-
-Rol: Desarrollador Principal
-
-Contacto: GitHub Profile
-
-Experiencia y Motivación
-Este proyecto fue desarrollado como parte del curso de Estructuras de Datos con el objetivo de aplicar conceptos teóricos en una aplicación práctica y funcional. La motivación principal fue crear una herramienta educativa que demuestre la utilidad de los grafos en problemas del mundo real.
-
-Otros Proyectos
-Repositorio GitHub - Más proyectos y contribuciones
-
-LinkedIn - Perfil profesional (opcional)
+👥 Autores
+Tu Nombre - Desarrollo inicial - TuUsuario
 
 🙏 Agradecimientos
-Instituciones Educativas
-Universidad de Panamá - Por la formación en Ciencias de la Computación
+Universidad de Panamá - Facultad de Informática
 
-Facultad de Informática - Por el soporte y recursos académicos
+Profesores de Estructuras de Datos
 
-Profesores y Mentores
-Profesores de Estructuras de Datos - Por la guía teórica
+Comunidad de desarrollo PHP
 
-Compañeros de clase - Por el feedback y pruebas
+Todos los contribuidores y testers
 
-Recursos y Herramientas
-PHP Documentation - Documentación oficial del lenguaje
+🚀 Características Técnicas Destacadas
+Optimización
+Lista de adyacencia para representación eficiente del grafo
 
-GitHub - Plataforma de hosting y colaboración
+SplPriorityQueue para implementación óptima de Dijkstra
 
-Stack Overflow - Comunidad de desarrolladores
+Caché de resultados usando sesiones PHP
 
-Visual Studio Code - Editor de código utilizado
+Lazy loading para la matriz de adyacencia
 
-Inspiración
-Algoritmos Clásicos - Trabajo de Dijkstra, Tarjan, y otros pioneros
+Seguridad
+Sanitización de inputs con htmlspecialchars()
 
-Proyectos Open Source - Comunidad de código abierto
+Validación de datos en servidor
 
-Aplicaciones de Navegación - Google Maps, Waze, y similares
+Manejo de errores personalizado
 
-📞 Soporte y Contacto
-Canales de Comunicación
-Issues de GitHub: Para reportar bugs y solicitar features
+Protección contra XSS
 
-Email: [tu-email@ejemplo.com] - Para consultas directas
+Usabilidad
+Interfaz intuitiva con feedback visual
 
-Discord/Teams: Para colaboración en tiempo real (opcional)
+Tooltips informativos en todos los elementos
 
-Respuesta a Issues
-Bug crítico: 24-48 horas
+Confirmaciones para acciones destructivas
 
-Feature request: 1-2 semanas para evaluación
+Mensajes de estado claros y descriptivos
 
-Consulta general: 3-5 días hábiles
+🔧 Solución de Problemas
+Problemas Comunes y Soluciones
+"Error al agregar conexión. Verifique que ambas ciudades existan"
 
-Política de Soporte
-Prioridad: Bugs > Features > Mejoras > Documentación
+Verificar que las ciudades seleccionadas existen
 
-Versiones: Solo la última versión estable recibe soporte completo
+Asegurarse de que no haya espacios en blanco en los nombres
 
-Compatibilidad: Se mantiene compatibilidad con PHP 7.4+
+Mapa no se muestra correctamente
 
-Documentación: Siempre actualizada con cada release
+Verificar que JavaScript esté habilitado
 
-🔮 Roadmap y Futuro
-Versión 1.1 (Próxima)
-Exportación de rutas a CSV/JSON
+Revisar la consola del navegador para errores
 
-Importación de datos desde archivos
+Los resultados no persisten al recargar
 
-Gráficos de estadísticas avanzadas
+Verificar que las sesiones estén habilitadas en PHP
 
-Modo oscuro/claro
+Asegurarse de que no haya problemas con cookies
 
-Versión 2.0 (Futuro)
-API REST para integración externa
+Interfaz no se ve bien en móvil
 
-Base de datos para persistencia permanente
+Verificar que el viewport esté configurado correctamente
 
-Algoritmos adicionales (Kruskal, Floyd-Warshall)
+Recargar la página limpiando caché (Ctrl+F5)
 
-Internacionalización (inglés/español)
+Requisitos de Servidor
+PHP 7.4 o superior
 
-Investigación y Desarrollo
-Optimización de algoritmos para grandes grafos
+Habilitada la extensión de sesiones
 
-Machine learning para predicción de rutas
+Memoria suficiente para grafos grandes (recomendado 128MB+)
 
-Integración con APIs de mapas reales
+📚 Recursos Adicionales
+Para Aprender Más
+Documentación oficial de PHP
 
-Aplicación móvil nativa
+Algoritmos de Grafos - GeeksforGeeks
 
-⭐ Mostrar tu Apoyo
-Si este proyecto te fue útil, por favor:
-
-Dale una estrella en GitHub ⭐
-
-Compártelo con compañeros y colegas
-
-Contribuye con mejoras o feedback
-
-Menciona el proyecto en tus trabajos académicos
-
-¡Tu apoyo motiva el desarrollo continuo!
-
-📊 Estadísticas del Proyecto
-Fecha de inicio: Diciembre 2024
-
-Líneas de código: ~1,500
-
-Clases: 2 principales
-
-Algoritmos implementados: 3
-
-Ciudades preconfiguradas: 18
-
-Conexiones iniciales: 21
+Estructuras de Datos en PHP
