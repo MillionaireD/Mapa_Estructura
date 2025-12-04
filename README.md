@@ -797,13 +797,15 @@ Sin garantía: Software proporcionado "tal cual"
 
 Responsabilidad: Los autores no son responsables de daños
 
-👤 Autor
+👤 Autores
 Información del Desarrollador
 Nombre: MillionaireD
 
 Rol: Desarrollador Principal
 
 Contacto: GitHub Profile
+
+Complementario: out github - Ricardo Justiniani
 
 Experiencia y Motivación
 Este proyecto fue desarrollado como parte del curso de Estructuras de Datos con el objetivo de aplicar conceptos teóricos en una aplicación práctica y funcional. La motivación principal fue crear una herramienta educativa que demuestre la utilidad de los grafos en problemas del mundo real.
